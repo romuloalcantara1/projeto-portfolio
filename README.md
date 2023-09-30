@@ -1,6 +1,19 @@
-﻿# Projeto Portfolio
+﻿## [🚀 Tecnologias](https://github.com/romuloalcantara1/projeto-portfolio)
 
-**O foi trabalhado**
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Utilização do HTML e CSS para criação de uma página pessoal, denominada portfolio. O trabalho surgiu a partir de um curso ao qual a ideia era apresentar a base das tecnologias web, para compreensão do que acontece dentro dos principais frameworks utilizados no desenvolvimento de aplicações web. 
+-   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+## [💻 Projeto](https://github.com/romuloalcantara1/projeto-portfolio)
+
+O projeto foi elaborado durante as aulas do curso Staart, onde foram abordados os seguintes conceitos:
+
+-   Apresentação e posicionamento dos elementos na tela
+-   Aplicação de fontes customizadas
+-   Cores e fontes
+-   Alinhamento de textos e elementos
+-   Espaçamentos
+-   Bordas e classificação de elementos
+-   Posicionamento dos elementos
 
